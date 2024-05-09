@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const typedTextSpan = document.querySelector(".typed-text");
     const cursorSpan = document.querySelector(".cursor");
 
-    const textArray = ["Multimedia-Design Student","Web Developer", "Film Technichian", "Tech Enthusiast" ,"Photographer","Drone Pilot", "Designer"];
+    const textArray = ["Multimedia-Design Studerende","Web Udvikler", "Film & Tv Produktionteknikker", "Teknik entusiast" ,"Fotograf","Drone Pilot", "Designer","Og meget mere"];
     const typingDelay = 200;
     const erasingDelay = 100;
     const newTextDelay = 2000;
